@@ -2,7 +2,7 @@
   "buildOptions": {
     "emitEntryPoint": true,
     "debugType": "portable",
-     "copyToOutput": ["Views/Hello/*", "Content/*"] 
+     "preserveCompilationContext": true
   },
   
   "dependencies": {
